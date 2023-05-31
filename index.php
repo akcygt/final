@@ -55,7 +55,7 @@
                                 // MySQL bağlantısı için gerekli bilgileri girin
                                 $servername = "localhost";
                                 $username = "root";
-                                $password = "5dbe7fb9c43e6afcd1ae0401e979a8d4cd2d5685e3a8cc47";
+                                $password = "";
                                 $dbname = "mysite";
 
                                 // MySQL bağlantısını oluşturun
@@ -111,7 +111,7 @@
             // MySQL bağlantısı için gerekli bilgileri girin
             $servername = "localhost";
             $username = "root";
-            $password = "5dbe7fb9c43e6afcd1ae0401e979a8d4cd2d5685e3a8cc47";
+            $password = "";
             $dbname = "mysite";
 
             // MySQL bağlantısını oluşturun
@@ -185,7 +185,7 @@
     // MySQL bağlantısı için gerekli bilgileri girin
     $servername = "localhost";
     $username = "root";
-    $password = "5dbe7fb9c43e6afcd1ae0401e979a8d4cd2d5685e3a8cc47";
+    $password = "";
     $dbname = "mysite";
 
     // MySQL bağlantısını oluşturun
